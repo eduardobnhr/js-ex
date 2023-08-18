@@ -1,0 +1,1 @@
+console.log('edu ${1+1}'+  1+1);
