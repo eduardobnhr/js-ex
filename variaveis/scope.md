@@ -9,3 +9,6 @@
 }//aqui fecha
 "''''"
 bloco, tambem criara um novo escopo. Chama-se de 'block-scoped'
+
+# var é variavel global(pegar de qualquer parte do codigo)
+# let e const sao locais
